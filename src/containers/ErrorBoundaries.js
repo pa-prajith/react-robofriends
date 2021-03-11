@@ -23,5 +23,5 @@ export class ErrorBoundaries extends Component {
     }
 }
 
-export default ErrorBoundaries
+export default ErrorBoundaries;
 
